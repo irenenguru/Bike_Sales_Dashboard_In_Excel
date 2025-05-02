@@ -47,6 +47,9 @@ The primary dataset used for this analysis is the "Bike_Sales_Dataset_Excel_Proj
 
 Pivot tables and Pivot charts
 
+![Excel Pivot Tables and Pivot Charts](https://github.com/user-attachments/assets/6fd0eb95-9965-4581-9e93-8a582a6eb339)
+
+
 
 ### Key Insights
 1. Income Influence: Higher average income is associated with increased likelihood of purchasing a bike.
